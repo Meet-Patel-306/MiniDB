@@ -1,5 +1,5 @@
 # MiniDB
-Simple version of SQL database in c++
+Simple version of SQLite database in c++
 
 ```bash
 g++ main.cpp pager.cpp -o minidb
